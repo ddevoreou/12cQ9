@@ -1,7 +1,4 @@
-David Devore
-Gabe Scott
-Jon LeMaster
-Tim Gehrsitz
+David Devore, Gabe Scott, Jon LeMaster, Tim Gehrsitz
 
 
 In group discussion we decided that the midterm project should be a group collaborative project that tests our knowledge of collaboration and git. We felt that two weeks would be adequate to complete this assignment as we would be collaborating outside class. Individual tasks we propose for the midterm include:
